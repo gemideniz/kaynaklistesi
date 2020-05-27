@@ -1,10 +1,10 @@
-#### Gemi ve Deniz Teknolojisi Veri Seti/Kod Kaynak Listesi
+# Gemi ve Deniz Teknolojisi Veri Seti/Kod Kaynak Listesi
 
-<u>Veri Seti ve Kod Paylaşım Çağrısı</u>
+##Veri Seti ve Kod Paylaşım Çağrısı
 
 Bilimsel ve teknik çalışmalarda bilimselliğin gereği olan tekrar edilebilirlik ilkesini yerine getirebilmek ve ülkemizde yapılan Gemi ve Deniz Teknolojisi ile ilgili bilimsel ve teknik çalışmaları sürdürülebilir kılmak için veri setlerimizi ve ilgili yazılım kodlarını bu hesap üzerinden paylaşıma açıyoruz. Takipçilerimizi de kendilerine ait olan çalışmalarda ürettikleri veri setlerini ve kodları bu hesaba istek göndererek paylaşmaya davet ediyoruz.
 
-<u>Yöntem</u>
+**Yöntem**
 
 1. Metaveri dosyası
 
@@ -25,11 +25,18 @@ Bilimsel ve teknik çalışmalarda bilimselliğin gereği olan tekrar edilebilir
 
 Geliştirici/ler kendi çalışmalarına referans verilmesini son kullanıcılarından talep etmekte ise mutlaka benioku dosyası içerisinde öz referanslar kısmında APA elektronik referans formatında verilmesini istedikleri öz referansları son kullanıcılar ile paylaşmalıdırlar.
 
-<u>Referans Verme</u>
+**Referans Verme**
 
 Veri seti/kod son kullanıcıları yaptıkları yayınlarda faydalandıkları çalışmaların öz referanslarına referans vermelidirler.
 
 Yazar/Hak sahibi. (Yıl). Veri seti/kod adı (Versiyon) [Veri seti/kod tanımı]. Erişim adresi http://
+
+**Listeye Ekleme**
+
+- Veri seti/kodu doğru başlığın altına ekleyiniz
+- Listenin en sonuna ekleme yapınız
+- Listeden aynı ismi tekrar kullanmayınız
+- gemideniz/kaynaklistesi deposuna istekte bulununuz
 
 ---
 
