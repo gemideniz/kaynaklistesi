@@ -1,6 +1,6 @@
 # Gemi ve Deniz Teknolojisi Veri Seti/Kod Kaynak Listesi
 
-##Veri Seti ve Kod Paylaşım Çağrısı
+## Veri Seti ve Kod Paylaşım Çağrısı
 
 Bilimsel ve teknik çalışmalarda bilimselliğin gereği olan tekrar edilebilirlik ilkesini yerine getirebilmek ve ülkemizde yapılan Gemi ve Deniz Teknolojisi ile ilgili bilimsel ve teknik çalışmaları sürdürülebilir kılmak için veri setlerimizi ve ilgili yazılım kodlarını bu hesap üzerinden paylaşıma açıyoruz. Takipçilerimizi de kendilerine ait olan çalışmalarda ürettikleri veri setlerini ve kodları bu hesaba istek göndererek paylaşmaya davet ediyoruz.
 
