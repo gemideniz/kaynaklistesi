@@ -2,7 +2,7 @@
 
 ## Veri Seti ve Kod Paylaşım Çağrısı
 
-Bilimsel ve teknik çalışmalarda bilimselliğin gereği olan tekrar edilebilirlik ilkesini yerine getirebilmek ve ülkemizde yapılan Gemi ve Deniz Teknolojisi ile ilgili bilimsel ve teknik çalışmaları sürdürülebilir kılmak için veri setlerimizi ve ilgili yazılım kodlarını bu hesap üzerinden paylaşıma açıyoruz. Takipçilerimizi de kendilerine ait olan çalışmalarda ürettikleri veri setlerini ve kodları bu hesaba istek göndererek paylaşmaya davet ediyoruz.
+Bilimsel ve teknik çalışmalarda bilimselliğin gereği olan tekrar edilebilirlik ilkesinin Gemi ve Deniz Teknolojisi alanındaki çalışmalarda sürdürülebilirliğinin sağlanabilmesi amacıyla, veri setlerimizi ve ilgili yazılım kodlarını bu hesap üzerinden paylaşıma açıyoruz. Takipçilerimizi de kendilerine ait olan çalışmalarda ürettikleri veri setlerini ve kodları bu hesaba istek göndererek paylaşmaya davet ediyoruz.
 
 **Yöntem**
 
