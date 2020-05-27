@@ -1,4 +1,4 @@
-# Gemi ve Deniz Teknolojisi Veri Seti/Kod Kaynak Listesi
+# GemiDeniz Veri Seti/Kod Kaynak Listesi
 
 ## Veri Seti ve Kod Paylaşım Çağrısı
 
